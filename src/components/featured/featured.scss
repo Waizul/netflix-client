@@ -8,15 +8,16 @@
         left: 50px;
         font-size: 30px;
         font-weight: 500;
-        color: white;
+       color: white;
         display: flex;
         align-items: center;
 
 select{
-cursor: pointer;
 background-color: var(--main-color);
 margin-left: 20px;
-padding: 5px;
+padding:5px;
+ color: white;
+cursor: pointer;
 
 }
     }

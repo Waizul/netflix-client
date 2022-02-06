@@ -8,3 +8,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.app{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    margin-bottom: 50px;
+}
